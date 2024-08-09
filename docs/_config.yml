@@ -42,7 +42,6 @@ plugins:
 authors:
     bone:
       name:           Bone
-      site:           https://www.wowthemes.net
       avatar:         assets/images/avatar1.jpg
       bio:            "坚持国际主义理想"
       email:          wowthemesnet@gmail.com
@@ -50,9 +49,15 @@ authors:
 
     claire:
       name:           Claire
-      site:           https://www.wowthemes.net
       avatar:         assets/images/avatar2.jpg
       bio:            "feed the head"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
+
+    hex:
+      name:           Hex
+      avatar:         assets/images/avatar3.jpg
+      bio:            "Hi, I'm Hex"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
  
