@@ -60,6 +60,13 @@ authors:
       bio:            "Hi, I'm Hex"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
+
+    棉籽:
+      name:           棉籽
+      avatar:         assets/images/avatar4.jpg
+      bio:            "要去改變這個不斷生產出這些悲劇的世界"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
 defaults:
